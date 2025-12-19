@@ -1,7 +1,7 @@
 # ROB 6323 — Unitree Go2 Locomotion (Isaac Lab DirectRLEnv)
 
 Author: Xinyang Zhang  
-(Repo is a fork of the provided baseline.)
+
 
 This repository contains my modifications to the provided ROB 6323 Go2 baseline environment.  
 Main changes include: reward shaping (Parts 1,4,5,6), custom low-level PD torque control (Part 2), additional termination conditions (Part 3), and observation expansion (Part 4).
