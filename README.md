@@ -71,9 +71,6 @@ Per the assignment, I only modified these two files:
 - `source/rob6323_go2/rob6323_go2/tasks/direct/rob6323_go2/rob6323_go2_env.py`
 - `source/rob6323_go2/rob6323_go2/tasks/direct/rob6323_go2/rob6323_go2_env_cfg.py`
 
-> PPO hyperparameters live in:
-> `source/rob6323_go2/rob6323_go2/tasks/direct/rob6323_go2/agents/rsl_rl_ppo_cfg.py`  
-> (Not required/used for my submission unless explicitly stated otherwise.)
 
 ---
 
