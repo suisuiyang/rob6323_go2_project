@@ -77,7 +77,7 @@ Per the assignment, I only modified these two files:
 
 ---
 
-## Major changes (what + why)
+## Major changes
 
 Below are the major changes and why they were added. These correspond to the tutorial Parts 1–6.
 
