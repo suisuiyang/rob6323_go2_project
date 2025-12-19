@@ -155,32 +155,6 @@ tensorboard --logdir ./logs
 
 ---
 
-## Submission checklist (how to turn in)
-
-The deliverable is a **cleanly organized fork** of the baseline with modifications + a top-level `README.md` describing changes and reproduction.
-
-Before submitting:
-- [ ] Repo is a **fork** of the provided baseline.
-- [ ] Repo contains this **top-level `README.md`** (major changes + how to reproduce).
-- [ ] The two edited files are committed:
-  - `.../rob6323_go2_env.py`
-  - `.../rob6323_go2_env_cfg.py`
-- [ ] Code has concise inline comments where logic differs from baseline.
-- [ ] **Do not commit large artifacts** (`logs/`, checkpoints, videos) unless the course explicitly asks.
-- [ ] Verify a clean run:
-  - `./install.sh` completed (burst job finished)
-  - `./train.sh` launches successfully
-  - logs appear under `logs/...`
-
-**How to submit (typical):**
-- If the course portal asks for a **GitHub link**: submit the URL of your fork (optionally include the final commit hash).
-- If it asks for a **zip**: create one without logs (example from repo root):
-  ```bash
-  git archive --format=zip -o rob6323_go2_submission.zip HEAD
-  ```
-
----
-
 ## References (official guides used)
 - NYU HPC access guide (VPN/SSH, dtn, gateway options)
 - NYU HPC VS Code Remote SSH guide (recommended workflow)
